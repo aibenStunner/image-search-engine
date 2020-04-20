@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
     Image Search Engine
 </h1>
   <p align="center">
