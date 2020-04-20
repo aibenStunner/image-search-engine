@@ -56,9 +56,9 @@ Please make sure to update tests as appropriate.
 
 ## Want to talk more??
  If you are interested in helping or have something to suggest or just want to chat with me, you can reach me through the following media .
-* Email - ebenezergadri99@gmail.com
-* Let's connect on <a href="https://www.linkedin.com/in/ebenezer-kweku-gadri-akrong-22b19a185/">LinkedIn</a>
-* I'm on <a href="https://www.hackerrank.com/aiben_">HackerRank</a>
+* Email - ebenezergadri99@gmail.com :e-mail:
+* Let's connect on <a href="https://www.linkedin.com/in/ebenezer-kweku-gadri-akrong-22b19a185/">LinkedIn.</a> :pushpin:
+* I'm on <a href="https://www.hackerrank.com/aiben_">HackerRank</a> too.:relaxed:
 
 ## References :book:
 * Content-Based Image Retrieval (CBIR)
