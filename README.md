@@ -22,26 +22,29 @@ A simple image search engine built from the concept of Content-Based Image Retri
 ## Installation :package:
 1. Clone the repo
 ```bash
-   https://github.com/aibenStunner/image-search-engine.git
-   cd image-search-engine
+   $ git clone https://github.com/aibenStunner/image-search-engine.git
+   $ cd image-search-engine
 ```
 2. Install dependencies
 ```bash
-   pip install -r requirements.txt
+   $ pip install -r requirements.txt
 ```
 
 ## Usage :computer:
-You'll need a dataset of images to work on. 
-A sample dataset can be gotten from here <a href="http://lear.inrialpes.fr/people/jegou/data.php">INRIA Holidays Dataset</a>
+* You'll need a dataset of images to work on. A sample dataset can be gotten from here <a href="http://lear.inrialpes.fr/people/jegou/data.php">INRIA Holidays Dataset.</a>
 
-   * `-d`, `--dcares` (list of numbers): **list of dont't cares (default=[ ])**
-   * `-v`, `--variables` (list of chars): **list of characters for representing result (default = [ ])**
-   * `-s`, `--show_steps` (yes|no): **show steps leading to solution (default=yes)**
-   * `-p`, `--show_step` (sum of products): **sum of products are used to be reduce the function**
-   * `-m`, `--show_step` (minterms): **sum of minterms are used to be reduce the function**
-   
-Example
+* To index the sample dataset, open up a shell and issue the following command:
 ```bash
-    python -m qmccluskey -m 0,1,3,7,8,9,11,15 -d 12  -v a,b,c,d
-    python -m qmccluskey -p a'b'c'+b'cd'+a'bcd'+ab'c' -v a,b,c,d
+    $ python index.py --dataset dataset --index index.csv
 ```
+
+* To perform search on the dataset, issue the command:
+```bash
+    $ python search.py --index index.csv --query <path-to-image-search-query> --result-path dataset
+```
+
+## Demo :movie_camera:
+   Search query:
+   ![](res/query.png)
+   Search results:
+   ![](res/result.png)
