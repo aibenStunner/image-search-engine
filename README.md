@@ -61,8 +61,7 @@ Please make sure to update tests as appropriate.
 * I'm on <a href="https://www.hackerrank.com/aiben_">HackerRank</a> too.:relaxed:
 
 ## References :book:
-* Content-Based Image Retrieval (CBIR)
-    https://en.wikipedia.org/wiki/Content-based_image_retrieval
+<a href="https://en.wikipedia.org/wiki/Content-based_image_retrieval">Content-Based Image Retrieval (CBIR)</a>
 
 ## Todos :pencil:
  - Improve on quality of search
