@@ -47,4 +47,4 @@ A simple image search engine built from the concept of Content-Based Image Retri
    Search query:
    ![](res/query.png)
    Search results:
-   ![](res/result.png)
+   ![](res/results.png)
