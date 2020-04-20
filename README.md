@@ -44,7 +44,7 @@ A simple image search engine built from the concept of Content-Based Image Retri
 ```
 
 ## Demo :movie_camera:
-   Search query:
+   <p>Search query:</p>
    ![](res/query.png)
-   Search results:
+   <p>Search results:</p>
    ![](res/results.png)
