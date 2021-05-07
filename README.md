@@ -1,16 +1,6 @@
 <h1 align="left">
     Image Search Engine
 </h1>
-  <p align="center">
- <img src="https://img.shields.io/github/release/aibenStunner/image-search-engine.svg" />
- <img src="https://img.shields.io/github/issues/aibenStunner/image-search-engine.svg">
- <img src="https://img.shields.io/github/issues-closed-raw/aibenStunner/image-search-engine.svg">
- <img src="https://requires.io/github/aibenStunner/image-search-engine/requirements.svg?branch=master"> 
- <img src="https://img.shields.io/snyk/vulnerabilities/github/aibenStunner/image-search-engine.svg">
- <img src="https://img.shields.io/github/languages/top/aibenStunner/image-search-engine.svg">
- <img src="https://img.shields.io/codefactor/grade/github/aibenStunner/image-search-engine/master.svg">
-
- </p>
 
 A simple image search engine built from the concept of Content-Based Image Retrieval (CBIR) systems.:sweat_smile:
 
